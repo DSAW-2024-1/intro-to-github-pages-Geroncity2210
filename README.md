@@ -9,6 +9,7 @@ Para esto es necesario que suban los cambios de su repositorio anterior a este r
   - Una vez agreguen el nuevo remoto, deben hacer push.
      - En lugar de hacer `git push origin master` deberán usar el nombre del nuevo remoto, es decir: `git push NOMBRE_DE_REFERENCIA_DEL_NUEVO_REMOTO master`
 
+
 ![Juego de la rana](Juego_de_la_rana.png)
 
 ![Juego de los platos](Juego_de_los_platos.png)
