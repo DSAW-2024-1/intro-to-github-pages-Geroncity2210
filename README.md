@@ -12,7 +12,7 @@ Para esto es necesario que suban los cambios de su repositorio anterior a este r
 
 ![Juego de la rana](Juego_de_la_rana.png)
 
-![Juego de los platos](Juego_de_los_platos.png)
+![Juego de los platos](juego_de_los_platos.png)
 
 ![Juego del jardin](Juego_del_jardin.png)
 
