@@ -10,6 +10,8 @@ Para esto es necesario que suban los cambios de su repositorio anterior a este r
      - En lugar de hacer `git push origin master` deberán usar el nombre del nuevo remoto, es decir: `git push NOMBRE_DE_REFERENCIA_DEL_NUEVO_REMOTO master`
 
 
+![](juegodelarana.png)
+
 ## Sitio web Desplegado
 El taller estará finalizado una vez suban su página a internet y agregue a continuación el link:
 - **Link del sitio web desplegado:**
